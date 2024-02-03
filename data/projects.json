@@ -1,34 +1,34 @@
 [
-    {
-        "title": "Blackjack Game",
-        "description": "Simple blackjack game, built with vanilla JavaScript, HTML, and CSS.",
-        "image": "https://placehold.co/600x400/4265E6/FFFFFF.png?text=Project+Screenshot",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["HTML", "CSS", "JavaScript"]
-    },
-    {
-        "title": "Jira Clone",
-        "description": "Bootcamp group project. Full stack application built with React, JSON Server, and React Testing Library",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
-    },
-    {
-        "title": "Cohort Tools",
-        "description": "Bootcamp group project. Full stack application built with React, Node, ExpressJS,  MongoDB, and Tailwind.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Tailwind"]
-    },    
-    {
-        "title": "Weather Dashboard",
-        "description": "Weather tracking application built with React, Node, ExpressJS, MongoDB, Ant Design, and OpenWeather API.",
-        "image": "",
-        "github": "https://github.com/exampleuser/examplerepo",
-        "deployed": "http://example.com",
-        "techStack": ["React", "Node", "Express", "MongoDB", "Ant Design"]
-    }
+  {
+    "title": "Quidditch Maze",
+    "description": "Web game, developed during Ironhack Web Development Bootcamp, created with HTML5, CSS3 and JavaScript.",
+    "image": "../Quidditch-Maze.png",
+    "github": "https://github.com/anapatriciagomes/project-maze-game",
+    "deployed": "https://quidditch-maze.netlify.app/",
+    "techStack": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Atlas Of Conquests",
+    "description": "Responsive Web App, developed during Ironhack Web Development Bootcamp, built with React, JavaScript, Material UI, Tailwind CSS, HTML5 & API Integration.",
+    "image": "../Atlas-Of-Conquests.png",
+    "github": "https://github.com/anapatriciagomes/AtlasOfConquests",
+    "deployed": "https://atlasofconquests.netlify.app/",
+    "techStack": ["React", "Node", "JSON Server", "React Testing Library"]
+  },
+  {
+    "title": "Cohort Tools",
+    "description": "Bootcamp group project. Full stack application built with React, Node, ExpressJS,  MongoDB, and Tailwind.",
+    "image": "https://img.freepik.com/free-vector/coming-soon-banner-with-focus-lights_1017-33739.jpg",
+    "github": "https://github.com/exampleuser/examplerepo",
+    "deployed": "http://example.com",
+    "techStack": ["React", "Node", "Express", "MongoDB", "Tailwind"]
+  },
+  {
+    "title": "Weather Dashboard",
+    "description": "Weather tracking application built with React, Node, ExpressJS, MongoDB, Ant Design, and OpenWeather API.",
+    "image": "https://img.freepik.com/free-vector/neon-style-coming-soon-glowing-background-design_1017-25516.jpg?size=626&ext=jpg&ga=GA1.1.1448711260.1706918400&semt=ais",
+    "github": "https://github.com/exampleuser/examplerepo",
+    "deployed": "http://example.com",
+    "techStack": ["React", "Node", "Express", "MongoDB", "Ant Design"]
+  }
 ]
